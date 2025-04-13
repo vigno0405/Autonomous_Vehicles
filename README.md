@@ -1,2 +1,2 @@
 # Autonomous_Vehicles
-Projects from the course of Autonomous Vehicles at PoliMi.
+Projects and reports developed during the Autonomous Vehicles course at Politecnico di Milano focused on path planning algorithms and autonomous navigation in simulation. The first project involved implementing RRT, RRT-Connect, and Informed RRT*, comparing them with A* in terms of performance and optimality on various maps. The second project addressed full-pipeline navigation in Gazebo with TurtleBot3, including SLAM-based mapping, trajectory planning, and closed-loop control using ROS and Simulink. Additional assignments explored low-level control, path tracking, FSMs, and visual servoing, with detailed analysis and documentation provided in the reports.
